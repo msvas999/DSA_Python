@@ -16,4 +16,3 @@ class NumberOfCommonFactors:
 obj = NumberOfCommonFactors()
 cnt = obj.commonFactors(12,6)
 print(cnt)
-
